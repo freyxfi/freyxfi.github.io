@@ -46,3 +46,4 @@ But why am I doing this? I wasn't always into web security—so why now? Well, t
 
 10. **Server-Side Request Forgery (SSRF)**  
     This occurs when an application fetches a remote resource without validating the URL supplied by the user, potentially exposing internal systems to attacks.
+
