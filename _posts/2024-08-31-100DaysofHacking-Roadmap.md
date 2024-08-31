@@ -49,7 +49,7 @@ I don’t want to die as some random nerd who used to hack and did nothing signi
 
 # Final Thoughts
 
-Alright, that’s a lot. In the end, I’ll share my journey here on my blog (with different articles every day), so keep in touch. Also, follow my new Twitter account: [twitter.com/00zeroday](https://twitter.com/00zeroday). But heads up—I won’t follow back, lol.
+Alright, that’s a lot. In the end, I’ll share my journey here on my blog (with different articles every day), so keep in touch. Also, follow my new Twitter account: [twitter.com/00zeroday](https://twitter.com/pwnthewire). But heads up—I won’t follow back, lol.
 
 Special thanks to 0xfxiii(Ben), Lukas, Sameer Husain, Pinchu, Rakesh, Anso (The girl I love) for forcing me to do this haha
 
