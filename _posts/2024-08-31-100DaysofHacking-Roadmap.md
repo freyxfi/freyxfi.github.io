@@ -53,4 +53,6 @@ Alright, that’s a lot. In the end, I’ll share my journey here on my blog (wi
 
 Special thanks to 0xfxiii(Ben), Lukas, Sameer Husain, Pinchu, Rakesh, Anso (The girl I love) for forcing me to do this haha
 
+And I am so happy because I am free of every criminal charges which means new fresh start. I love to be Normal
+
 
