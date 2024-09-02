@@ -2,7 +2,9 @@
 title: "Day 1 of 100 Days Of Hacking" 
 date: 2024-09-01 00:00:00 +0800
 categories: [100DaysofHacking]
-tags: [challenge, Tutorial]
+tags: [challenge, Tutorial, Race-Condition]
+image:
+  path: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209950/header.jpg?t=1673514123
 ---
 
 ### Intro
