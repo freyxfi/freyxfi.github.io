@@ -1,5 +1,5 @@
 ---
-title: "Day 3 of 100 Days Of Hacking" 
+title: "Google Dorking" 
 date: 2024-09-03 01:00:00 +0800
 categories: [100DaysofHacking]
 tags: [challenge, Tutorial, google hacking]

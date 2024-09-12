@@ -1,5 +1,5 @@
 ---
-title: "Day 5 of 100 Days Of Hacking" 
+title: "Insecure Deserialization Part-I" 
 date: 2024-09-06 01:00:00 +0800
 categories: [100DaysOfHacking]
 tags: [challenge, Tutorial, Insecure Deserialization]

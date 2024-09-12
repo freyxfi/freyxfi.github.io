@@ -1,5 +1,5 @@
 ---
-title: "Day 2 of 100 Days Of Hacking" 
+title: "SSRF Is Good" 
 date: 2024-09-02 01:00:00 +0800
 categories: [100DaysofHacking]
 tags: [challenge, Tutorial, ssrf]
