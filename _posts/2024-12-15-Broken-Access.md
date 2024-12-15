@@ -9,7 +9,7 @@ image:
 
 # What happen this week?
 
-Well hello everyone! This week was totally crazy—up and down—and quite slow too, but I did a lot of things. Let's mention them here. If you are reading these weekly blogs, you are already familiar with how we do this. In each blog, we discuss our weekend work and then talk about one topic which we find interesting! If you are here just to look for the access control topic, I will suggest you skip the weekend part and jump to it right away. But then you will miss out on a connection between you and me, haha.
+Well hello everyone! This week was totally crazy up and down and quite slow too, but I did a lot of things. Let's mention them here. If you are reading these weekly blogs, you are already familiar with how we do this. In each blog, we discuss our weekend work and then talk about one topic which we find interesting! If you are here just to look for the access control topic, I will suggest you skip the weekend part and jump to it right away. But then you will miss out on a connection between you and me, haha.
 
 # Here are the things I did this week
 
