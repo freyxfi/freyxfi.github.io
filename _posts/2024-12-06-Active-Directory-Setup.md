@@ -1,6 +1,6 @@
 ---
 title: "Active Directory Setup And More"
-date: 2024-12-01 01:00:00 +0800
+date: 2024-12-06 01:00:00 +0800
 categories: [Active-Directory]
 tags: [Tutorial, Active-Directory]
 image:
