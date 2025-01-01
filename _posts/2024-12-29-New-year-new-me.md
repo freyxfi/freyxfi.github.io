@@ -105,10 +105,10 @@ I’m heading back to training now. These days, I’m doing over 500 push-ups da
 13. No Fap for the whole year.  
 14. Get 2k YouTube subs.  
 15. Make my own web security series and upload videos on YouTube.  
-16. Visit Japan alone lol.  
+16. Visit Japan with my brother lol.  
 17. Get my sports bike.  
 18. Make a good amount of money and never share it on any social media.  
-19. Travel alone to an unknown location.  
+19. Travel to an unknown location with my brother.  
 20. Fight on the street and not get caught.  
 21. Learn 7 new things that are really awesome.  
 22. Learn how to backflip.  
