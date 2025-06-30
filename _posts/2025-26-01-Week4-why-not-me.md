@@ -14,7 +14,7 @@ image:
 3. Hitting those daily exercise routines with discipline  
 4. Working on my big YouTube playlist starting with HTTP vs HTTPS  
 5. Use curl, guys  
-6. Hacked some random college website (XSS + LFI + SQLi)  
+6. Hacked some random college website (XSS + LFI + SQLi.)  
 7. Got a duplicate on another report (No, I’m not crying)  
 8. Working with APIs: Made a little project to download my wallpapers  
 9. Got a critical bug just by doing deep recon  

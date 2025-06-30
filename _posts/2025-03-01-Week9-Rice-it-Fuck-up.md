@@ -135,5 +135,4 @@ Ricing Vim is not just about making it look beautiful — it’s about creating 
 Take your time, experiment with different themes and plugins, and find what works best for your workflow.
 
 ## **What’s Next?**
-In future blogs, I'll dive into more advanced Vim customizations, including key mappings, plugin development, and integrating Vim with version control systems like Git.
-
+In future blogs, I'll dive into more advanced Vim customizations, including key mappings, plugin development, and integrating Vim with version control systems like Git. I will start Posting again in July 2025. Thanks for reading. 
